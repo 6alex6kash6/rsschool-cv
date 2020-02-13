@@ -9,7 +9,7 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 22px;
   color: seashell;
-  background-color: black;
+  background-color: #4f0d63;
   opacity: 0.9;
 }
 .contacts {
@@ -22,13 +22,13 @@ body {
   width: 280px;
   border-radius: 180px;
   margin: 20px 20px 20px 0px;
-  border: 2px solid aqua;
+  border: 2px solid white;
 }
 .contacts h3 {
   width: 180px;
   margin-bottom: 20px;
   font-size: 1.2em;
-  color: aqua;
+  color: white;
 }
 
 .contacts p {
@@ -37,7 +37,7 @@ body {
 
 .contacts i {
   margin-right: 5px;
-  color: aqua;
+  color: white;
   font-size: 0.8em;
 }
 
@@ -58,7 +58,7 @@ body {
 .info h2 {
   font-size: 1.2em;
   margin: 10px;
-  color: aqua;
+  color: white;
 }
 .info p {
   font-size: 1em;
@@ -66,7 +66,7 @@ body {
 }
 .info i {
   margin-right: 5px;
-  color: aqua;
+  color: white;
   font-size: 0.8em;
 }
 .skills {
@@ -78,7 +78,7 @@ body {
   width: 180px;
   margin-left: 260px;
   font-size: 1.5em;
-  color: aqua;
+  color: white;
 }
 
 .skills ul {
@@ -98,7 +98,7 @@ body {
   width: 180px;
   margin-left: 260px;
   font-size: 1.5em;
-  color: aqua;
+  color: white;
 }
 
 .experience ul {
